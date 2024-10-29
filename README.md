@@ -1,2 +1,2 @@
 # Indeed-Clone
-A platform that helps to apply to jobs online. 
+A platform to Post jobs online. 
